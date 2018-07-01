@@ -1,0 +1,4 @@
+templates/
+static/
+.gitignore
+__pycache_/
