@@ -1,4 +1,5 @@
 templates/
 static/
 .gitignore
-__pycache_/
+__pycache__/
+.idea/
